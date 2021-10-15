@@ -10,13 +10,13 @@ ABOUT THE PROGRAM :
 
 EXAMPLE SEVEN SEGMENT FOR 8 IS :
 
-  ====
-||    ||
-||    ||
-  ====
-||    ||
-||    ||
-  ====
+   ====
+ ||    ||
+ ||    ||
+   ====
+ ||    ||
+ ||    ||
+   ====
 
 
 
